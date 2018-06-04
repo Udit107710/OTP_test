@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OTP_test</string>
+    <string name="email_here">Email here</string>
+    <string name="fees_here">Amount here</string>
+    <string name="name_here">Name here</string>
+    <string name="pay_here">Click to Pay!</string>
+</resources>
